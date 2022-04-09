@@ -1,0 +1,23 @@
+.title{
+  color:blue;
+}
+
+.card{
+  width: 300px;
+  background-color: #ccc;
+}
+
+.cardOffer{
+  width: 300px;
+  background-color: red ;
+}
+
+.card__title{
+  color: blue;
+}
+
+.card__btn{
+  border-color:none;
+  cursor: pointer;
+  color: blue;
+}
