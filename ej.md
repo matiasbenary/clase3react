@@ -91,7 +91,8 @@ const gatos = [
 
 # Ejercicio integrador
 
-Dado el siguiente array de objetos, 
+Dado el siguiente array de objetos, y estilos:
+https://www.figma.com/file/XUHnRtRu1PfwsJzsFDunqd/Untitled?node-id=1%3A2
 
 ```js
 const products = [
